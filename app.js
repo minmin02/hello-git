@@ -11,7 +11,7 @@ const server = http.createServer((req, res) => {
 });
 
 server.listen(port, hostname, () => {
-  console.log(`Node JSd Server is  running at http://${hostname}:${port}/`);
+  console.log(`Node JSddd Sdderver is  running at http://${hostname}:${port}/`);
 });
 
 module.exports = server;
